@@ -74,6 +74,7 @@
             // 
             // BankAccountsGrid
             // 
+            BankAccountsGrid.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             BankAccountsGrid.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             BankAccountsGrid.Location = new Point(299, 18);
             BankAccountsGrid.Name = "BankAccountsGrid";
